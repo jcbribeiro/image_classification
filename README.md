@@ -1,5 +1,7 @@
 # TensorFlow Lite image classification Android example application
 
+(adapted from https://github.com/tensorflow/examples/tree/master/lite/examples/image_classification/android)
+
 ## Overview
 
 This is an example application for [TensorFlow Lite](https://tensorflow.org/lite)
